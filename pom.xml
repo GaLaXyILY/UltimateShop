@@ -140,12 +140,12 @@
 
     <dependencies>
         <dependency>
-            <groupId>io.lumine</groupId>
-            <artifactId>MythicDungeon</artifactId>
-            <version>1.2.2</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/MythicDungeons-1.0.0.jar</systemPath>
+            <groupId>net.playavalon</groupId>
+            <artifactId>MythicDungeons</artifactId>
+            <version>1.3.0-SNAPSHOT</version>
+            <scope>provided</scope>
         </dependency>
+
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
