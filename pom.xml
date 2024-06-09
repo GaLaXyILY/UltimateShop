@@ -141,12 +141,11 @@
     <dependencies>
         <dependency>
             <groupId>net.playavalon</groupId>
-            <artifactId>MythicDungeons</artifactId>
-            <version>1.4.0</version>
-            <scope>provided</scope>
+            <artifactId>MythicDungeon</artifactId>
+            <version>1.4.0F</version>
+            <scope>system</scope>
             <systemPath>${project.basedir}/lib/MythicDungeons-1.4.0.jar</systemPath>
         </dependency>
-
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
