@@ -142,8 +142,9 @@
         <dependency>
             <groupId>net.playavalon</groupId>
             <artifactId>MythicDungeons</artifactId>
-            <version>1.3.0-SNAPSHOT</version>
+            <version>1.4.0</version>
             <scope>provided</scope>
+            <systemPath>${project.basedir}/lib/MythicDungeons-1.4.0.jar</systemPath>
         </dependency>
 
         <dependency>
